@@ -9,9 +9,11 @@ I create interactive systems, intuitive tools, and the occasional weird little g
 Here are some of the languages and tools I’m currently working with:
 
 <img align="left" alt="GDScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/godot/godot.png" />&nbsp;
+<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />&nbsp;
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />&nbsp;
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />&nbsp;
-<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />&nbsp;
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+
 
 ---
 
