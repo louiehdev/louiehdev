@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey there, I’m Louie
 
-<!--
-**louiehdev/louiehdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create interactive systems, intuitive tools, and the occasional weird little game.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Toolbox
+
+Here are some of the languages and tools I’m currently working with:
+
+<img align="left" alt="GDScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/godot/godot.png" />&nbsp;
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />&nbsp;
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />&nbsp;
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
+
+---
+
+## 🎯 Current Focus
+
+- Learning **game development** in Godot and Unity (GDScript & C#)
+- Exploring **back-end development** with [boot.dev](https://www.boot.dev) (Python and Go)
+- Building tools to make creative work more accessible
+
+---
+
+## 🌍 Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/louiehagen)
